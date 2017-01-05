@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NodeHelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/NodeHelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" filepath="$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PythonHelloWorld/PythonHelloWorld.iml" filepath="$PROJECT_DIR$/PythonHelloWorld/PythonHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs499-assignment0.iml" filepath="$PROJECT_DIR$/cs499-assignment0.iml" />
+    </modules>
+  </component>
+</project>
